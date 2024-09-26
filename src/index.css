@@ -1,0 +1,14 @@
+
+.main{
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+.Button{
+  border: 2px solid green;
+  background-color: rgba(0, 113, 128, 0.288);
+  border-radius: 30px;
+  padding: 30px;
+  margin: 10px;
+}
